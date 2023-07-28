@@ -1,2 +1,2 @@
 # homepage address
-https://paris-khayami.github.io/home/
+https://idildikmen.github.io/home/
